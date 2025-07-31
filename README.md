@@ -25,19 +25,19 @@ cat ~/git/rsm-gh-assignment-practice/.git/config;
 
 If the contents of the `config` file are shown and mention your repo on GitHub, you are ready to move on to the next step.
 
-Provide the information requested below. Then (1) save this markdown (md) file, (2) commit your changes to Git, and (3) push your work back to GitHub. After pushing your changes double-check that they are indeed visible in your repo on <https://github.com/orgs/rsm-msba-25-26/repositories>
+Provide the information requested below. Then (1) save this markdown (md) file, (2) commit your changes to Git, and (3) push your work back to GitHub. After pushing your changes double-check that they are indeed visible in your repo on [https://github.com/orgs/rsm-msba-25-26/repositories](https://github.com/orgs/rsm-msba-25-26/repositories)
 
 ---
 
 Provide the information requested below:
 
-- Last name:
-- First (or preferred) name:
-- Favorite food:
-- Favorite recent Netflix movie or show:
+- Last name: Yirui
+- First (or preferred) name: Xu
+- Favorite food: Hot Pot
+- Favorite recent Netflix movie or show: Stranger Things
 
 ---
 
-If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
+If you have any problems with this practice assignment, take screenshots and post them to [https://piazza.com/ucsd/summer2025/rady499](https://piazza.com/ucsd/summer2025/rady499).
 
 > Note: You can copy-and-paste images directly into Piazza rather than having to upload an image file. This will make your post quicker and easier to review
